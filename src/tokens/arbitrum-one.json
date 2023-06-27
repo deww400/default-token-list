@@ -719,5 +719,79 @@
     "logoURI": "https://app.camelot.exchange/images/tokens/dmt.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USD+",
+    "name": "USD+",
+    "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+    "logoURI": "https://app.camelot.exchange/images/tokens/usdp.png",
+    "decimals": 6,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "L2DAO",
+    "name": "Layer2DAO",
+    "address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+    "logoURI": "https://app.camelot.exchange/images/tokens/l2dao.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "EQB",
+    "name": "Equilibria Token",
+    "address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+    "logoURI": "https://app.camelot.exchange/images/tokens/eqb.jpg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USDF",
+    "name": "Fractal Protocol Vault Token",
+    "address": "0xae48b7C8e096896E32D53F10d0Bf89f82ec7b987",
+    "logoURI": "https://app.camelot.exchange/images/tokens/usdf.jpg",
+    "decimals": 6,
+    "quote": "derived_stable"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "PNP",
+    "name": "Penpie Token",
+    "address": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee",
+    "logoURI": "https://app.camelot.exchange/images/tokens/pnp.jpg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "rPNP",
+    "name": "Vested PNP receipt",
+    "address": "0x279427dF97B34Da65D96E92efDD2b961085356af",
+    "logoURI": "https://app.camelot.exchange/images/tokens/pnp.jpg",
+    "decimals": 18,
+    "quote": "other",
+    "excludeFromExchange": true,
+    "priceOf": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "USH",
+    "name": "unshETHing_Token",
+    "address": "0x51A80238B5738725128d3a3e06Ab41c1d4C05C74",
+    "logoURI": "https://app.camelot.exchange/images/tokens/ush.svg",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 41234,
+    "symbol": "unshETH",
+    "name": "unshETH Ether",
+    "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+    "logoURI": "https://app.camelot.exchange/images/tokens/unsheth.svg",
+    "decimals": 18,
+    "quote": "derived_native"
   }
 ]
