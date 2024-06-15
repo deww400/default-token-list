@@ -94,5 +94,23 @@
     "logoURI": "BASE_URL/assets/sranko.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "SMOKE",
+    "name": "smoke the ticker",
+    "address": "0xe78A3857593083dD6e1F7859e1B711401FC6f2cc",
+    "logoURI": "BASE_URL/assets/smoke.png",
+    "decimals": 18,
+    "quote": "other"
+  },
+  {
+    "chainId": 1996,
+    "symbol": "LSD",
+    "name": "LSD",
+    "address": "0x3c02f27100a06287e55bBA1A588CdC22D72B7965",
+    "logoURI": "BASE_URL/assets/lsd.png",
+    "decimals": 18,
+    "quote": "other"
   }
 ]
